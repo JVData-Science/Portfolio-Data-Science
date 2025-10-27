@@ -1,4 +1,4 @@
-# Portfolio-Data-Science
+Projeto de Dados
 Análise histórica dos campeões do Brasileirão Série A com gráficos e mapa interativo.
 
 Este projeto analisa os campeões do Campeonato Brasileiro de Futebol Série A, utilizando dados históricos desde 1959. O objetivo é explorar os vencedores por cidade e criar visualizações interativas que mostrem os títulos ao longo do tempo.
